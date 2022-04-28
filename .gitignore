@@ -1,0 +1,3 @@
+*.txt
+# ignoring all txt files
+.idea
